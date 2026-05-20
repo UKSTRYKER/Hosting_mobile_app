@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Archive>
+  <Name>Centralize</Name>
+  <PackageName>com.companyname.Centralize</PackageName>
+  <PackageVersionCode>1</PackageVersionCode>
+  <PackageVersionName>1.0</PackageVersionName>
+  <PackageFormat>apk</PackageFormat>
+  <CreationDate>639149125343408405</CreationDate>
+  <SolutionName>WguScheduler</SolutionName>
+  <SolutionPath>C:\Users\gpmat\Desktop\Capstone\Centralize App\WguScheduler.sln</SolutionPath>
+  <Status></Status>
+  <MinSdkVersion>21</MinSdkVersion>
+  <Configuration>
+    <DebugMode>false</DebugMode>
+  </Configuration>
+</Archive>
